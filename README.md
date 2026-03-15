@@ -4,13 +4,13 @@ This repository contains the Foundations track for the 60DaysToCloud program. Ea
 
 Structure:
 - [Week1_Cloud_Foundations](Week1_Cloud_Foundations/README.md)
-- Week2_Linux_Networking
-- Week3_Infrastructure_as_Code
-- Week4_Containers_Kubernetes
-- Week5_CICD_Pipelines
-- Week6_Cloud_Security
-- Week7_Monitoring_AIOps
-- Week8_Final_Project
+- [Week2_Linux_Networking](Week2_Linux_Networking/README.md)
+- [Week3_Infrastructure_as_Code](Week3_Infrastructure_as_Code/README.md)
+- [Week4_Containers_Kubernetes](Week4_Containers_Kubernetes/README.md)
+- [Week5_CICD_Pipelines](Week5_CICD_Pipelines/README.md)
+- [Week6_Cloud_Security](Week6_Cloud_Security/README.md)
+- [Week7_Monitoring_AIOps](Week7_Monitoring_AIOps/README.md)
+- [Week8_Final_Project](Week8_Final_Project/README.md)
 
 How to use:
 - Each week contains a README with goals, suggested contents, and pointers to labs, examples, and templates..
